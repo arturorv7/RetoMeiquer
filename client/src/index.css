@@ -1,0 +1,16 @@
+body {
+  padding: 2.5%;
+  font-family: -apple-system, BlinkMacSystemFont, 'Helvetica', 'Futura';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #EFF2F6 ;
+}
+
+.background{
+  color: #EFF2F6
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
